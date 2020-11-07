@@ -1,9 +1,9 @@
-# Instagram Desktop App UI Redesign in Flutter Desktop
+# Instagram App Redesign in Flutter Desktop
 
 
-Screenshot 
+## Screenshot 
 
-<img src="screenshots/Screenshot.png" width="1200" height="900"> 
+<img src="screenshots/Screenshot.png" > 
 
 
 ## How to use
@@ -13,7 +13,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 ```
 # Clone this repository
 $ git clone https://github.com/SurajLad/InstagramUI-Flutter-DesktopApp.git
-
 
 # Enable Flutter Desktop SDK
 $ visit https://flutter.dev/desktop for more details.
